@@ -9,4 +9,3 @@ Steps to run the program:
 2. Clone the repository
 3. Run `pip install -r requirements.txt`
 4. Run `python main.py`
-
