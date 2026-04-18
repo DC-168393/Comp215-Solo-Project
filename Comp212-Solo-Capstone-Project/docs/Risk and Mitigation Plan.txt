@@ -1,0 +1,10 @@
+# Risk and Mitigation Plan
+
+      Risk          Likelihood       Impact                     Mitigation Strategy
+1 Setup Problems      Medium          High      Describe clear guides to properly setup the program.
+2 Scope Too Large     Medium          High            Exclude least important items from stack
+3 Bugs/Issue in       Medium         Medium          Early and frequent testing and researching.
+  Main Features
+4 Time Management     High            High                  Create solid weekly schedule.
+5 Losing Code         Low             High        Create frequent saves of the program, and upload
+                                                       to GitHub after considerable progress.
