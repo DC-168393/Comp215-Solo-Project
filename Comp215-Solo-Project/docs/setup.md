@@ -1,7 +1,7 @@
 # Development Environment Setup
 
 Operating System > Windows 10/11
-Language > Python 3.11
+Language > Python 3.13.11
 IDE > Visual Studio Code
 
 Steps to run the program:
